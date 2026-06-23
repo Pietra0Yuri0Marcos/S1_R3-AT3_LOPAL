@@ -35,3 +35,5 @@ A conversão da coordenada digitada pelo usuário para o índice correto da list
 Python
 posicao = linha * 3 + coluna
 
+## Grupo:
+Pietra Spolaricki, Kauam, Murillo, Filipe Lucio
